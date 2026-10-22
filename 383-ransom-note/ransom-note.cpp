@@ -14,9 +14,7 @@ public:
                     magazine.pop_back();
                     break;
                 }
-                else{
-                    continue;
-                }
+                
             }
         }
         return s==ransomNote;
